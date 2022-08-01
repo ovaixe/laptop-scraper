@@ -1,2 +1,2 @@
 # laptop-scraper
-Scrapes laptos under specified price from 'https://www.flipkart.com'
+Scrapes details of laptops under specified price from 'https://www.flipkart.com'
